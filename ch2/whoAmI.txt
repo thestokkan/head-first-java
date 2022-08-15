@@ -1,0 +1,13 @@
+1. I am compiled from a .java file: class
+2. My instance variable values can be different from my buddy's values: object
+3. I behave like a template: class
+4. I like to do stuff: method, object
+5. I can have many methods: class, object
+6. I represent "state": instance variable
+7. I have behaviors: object, class
+8. I am located in objects: method, instance variable
+9. I live on the heap: Object
+10. I am used to create object instances: Class
+11. My state can change: Object, instance variable
+12. I declare methods: Class
+13. I can change at runtime: Instance variable, object

@@ -1,0 +1,25 @@
+Across
+4. java
+6. loop
+8. branch
+9. dc
+12. int
+13. ic
+14. systemoutprint
+18. string
+19. declare
+21. command
+
+Down
+1. float
+2. void
+3. public
+5. arrays
+7. while
+10. compiler
+11. variable
+13. it
+15. static
+16. main
+17. method
+20. jvm
